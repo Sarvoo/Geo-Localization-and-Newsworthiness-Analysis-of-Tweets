@@ -1,1 +1,1 @@
-# Geo-Localization-and-Newsworthiness-Analysis-of-Tweets
+# Geo Localization and Newsworthiness Analysis of Tweets
